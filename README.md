@@ -12,7 +12,7 @@ PGPキーがいる。なければ `gpg --gen-key`
 - [aws_iam_access_key | Resources | hashicorp/aws | Terraform Registry](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_access_key)
 
 
-# デプロイ
+# 動かし方
 
 まず
 ```bash
